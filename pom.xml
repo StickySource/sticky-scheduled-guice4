@@ -10,7 +10,7 @@
 
 	<groupId>net.stickycode.scheduled</groupId>
 	<artifactId>sticky-scheduled-guice4</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>sticky-scheduled-guice4-1</name>
@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>net.stickycode.configured</groupId>
 			<artifactId>sticky-configured-guice4</artifactId>
-			<version>[1,2)</version>
+			<version>[1.2,2)</version>
 		</dependency>
 	</dependencies>
 </project>
